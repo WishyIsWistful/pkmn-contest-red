@@ -2,7 +2,7 @@
 
 - Credits:
 
-EBDX (Essentials v19.1) + Pokémon Essentials:
+EBDX (Essentials v21.1) + Pokémon Essentials:
 - Luka S.J.
 - Maruno
 - Marin
