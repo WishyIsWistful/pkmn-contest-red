@@ -1,4 +1,4 @@
-# Pokemon-Essentials-21-FireRed Edition ! WIP
+# ! WIP
 
 - Credits:
 
